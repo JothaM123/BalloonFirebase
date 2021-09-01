@@ -67,7 +67,7 @@ function draw() {
   fill(0);
   stroke("white");
   textSize(20);
-  text("**Use arrow keys to move Hot Air Balloon! Note - Please wait for a few seconds before pressing the keys, as firebase needs to initialize.",40,40);
+  text("**Use arrow keys to move Hot Air Balloon!",40,40);
 }
 
  function updateHeight(x,y){
